@@ -1,0 +1,11 @@
+a=21
+b=9.23
+c="IPL"
+d=False
+e=22+7j
+print(a,b,c,d,e)
+print(type(a))
+print(type(b))
+print(type(c))
+print(type(d))
+print(type((e)))
